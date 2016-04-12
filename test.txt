@@ -3,6 +3,5 @@ master
 feature1
 
 dev
-
-
 test3
+test2
